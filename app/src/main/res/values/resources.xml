@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Vanced Manager</string>
+
+    <string name="app_name_vanced" translatable="false">YouTube Vanced</string>
+    <string name="app_name_music" translatable="false">YouTube Music Vanced</string>
+    <string name="app_name_microg" translatable="false">Vanced microG</string>
+
+</resources>
